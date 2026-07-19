@@ -21,3 +21,12 @@ Titanic Dataset
 - Data loading using Pandas
 - Data visualization using Matplotlib
 - Understanding categorical and continuous variables
+## Sample Visualizations
+
+### Passenger Age Distribution
+
+![Passenger Age Distribution](Distribution%20of%20passenger%20ages.png)
+
+### Passenger Gender Distribution
+
+![Passenger Gender Distribution](Distribution%20of%20passenger%20gender.png)
