@@ -13,8 +13,9 @@ Titanic Dataset
 - Jupyter Notebook
 
 ## Visualizations
-- Bar Chart of Passenger Gender Distribution
 - Histogram of Passenger Age Distribution
+- Bar Chart of Passenger Gender Distribution
+
 
 ## Learning Outcomes
 - Data loading using Pandas
